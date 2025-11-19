@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "title": "Sample Product",
+    "description": "Sample description",
+    "category": "Apparel",
+    "price": 9.99,
+    "image": "http://localhost:4000/images/1.png",
+    "addedAt": "2025-01-01T00:00:00Z"
+  }
+]
